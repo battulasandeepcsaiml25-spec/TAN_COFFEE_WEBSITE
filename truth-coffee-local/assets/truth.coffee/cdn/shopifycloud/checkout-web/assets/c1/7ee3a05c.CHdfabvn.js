@@ -1,0 +1,1 @@
+import{Pt as t}from"./630ba094.Cz6IQlUg.js";import{jt as r}from"./6ec9a0fa.IGk8g30z.js";function a(){const a=r();return t(()=>Array.from(a.value.values()).filter(t=>t.length>0).length>1)}export{a as t};

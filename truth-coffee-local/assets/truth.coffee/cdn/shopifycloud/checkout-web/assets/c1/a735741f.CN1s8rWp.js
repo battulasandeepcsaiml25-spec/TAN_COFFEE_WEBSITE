@@ -1,0 +1,1 @@
+import{jt as a,yt as r}from"./630ba094.Cz6IQlUg.js";import{wp as s}from"./6ec9a0fa.IGk8g30z.js";function t({children:t}){const o=s();return r("div",{className:a("H3Xuw",o&&"ldo89"),children:t})}export{t};

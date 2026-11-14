@@ -1,0 +1,1 @@
+import{nn as r,yt as i}from"./630ba094.Cz6IQlUg.js";import{SO as n,rk as a}from"./6ec9a0fa.IGk8g30z.js";function e({children:e,size:s="medium",ignoreBranding:t=!1}){const{primaryButton:{typography:{size:o}={}}}=a();return s&&!o||t?i(n,{size:s,children:e}):i(r,{children:e})}export{e as t};

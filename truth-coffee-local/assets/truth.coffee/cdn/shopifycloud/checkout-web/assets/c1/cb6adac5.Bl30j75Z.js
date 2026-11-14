@@ -1,0 +1,1 @@
+var a=/[()\-._ ]+/g;export{a as t};

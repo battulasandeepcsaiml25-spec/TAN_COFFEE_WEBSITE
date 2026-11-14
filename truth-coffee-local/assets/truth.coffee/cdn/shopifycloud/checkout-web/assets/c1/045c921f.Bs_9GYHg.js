@@ -1,0 +1,1 @@
+import{Pt as a}from"./630ba094.Cz6IQlUg.js";import{pO as n,vh as t}from"./6ec9a0fa.IGk8g30z.js";import{n as s}from"./70565d02.B-L8FNOv.js";function o(o){const{checkout:{installments:e},shop:r,shopPay:i}=n(),u=t();return a(()=>s(i.installments.spiCheckoutBadgingVariant.value,u.value,e.config.value?.merchantCountry??r.countryCode,e.hasFinancingPlans.value,o.value))}export{o as t};

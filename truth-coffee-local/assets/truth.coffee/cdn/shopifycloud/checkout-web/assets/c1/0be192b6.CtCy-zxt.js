@@ -1,0 +1,1 @@
+import{Gt as t,Jt as r}from"./630ba094.Cz6IQlUg.js";function n(){const n=r(!0);return t(()=>()=>{n.current=!1},[]),n}export{n as t};

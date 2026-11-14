@@ -1,0 +1,1 @@
+import{Pt as o}from"./630ba094.Cz6IQlUg.js";import{Gc as t,NC as r,pO as a}from"./6ec9a0fa.IGk8g30z.js";function e(){const{shop:e,source:s,checkout:{negotiator:c}}=a(),n=c.current.fields.buyerIdentity;return o(()=>Boolean(e.customerAccountLocationsUrl&&"draftOrder"!==s.type&&!r(s)&&t(n.value?.purchasingCompany)))}export{e as t};

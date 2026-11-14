@@ -1,0 +1,1 @@
+import{pO as o}from"./6ec9a0fa.IGk8g30z.js";function t(){const{shopPay:t}=o();return t}export{t};

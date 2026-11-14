@@ -1,0 +1,1 @@
+import{Et as a,yt as r}from"./630ba094.Cz6IQlUg.js";var t=a(function(a,t){const{allow:o,...s}=a;return r("iframe",{...s,ref:t,allow:o})});export{t};

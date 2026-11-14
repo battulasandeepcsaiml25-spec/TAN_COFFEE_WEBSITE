@@ -1,0 +1,1 @@
+import{en as a,qt as t,yt as e}from"./630ba094.Cz6IQlUg.js";import{Fp as s,M as o}from"./6ec9a0fa.IGk8g30z.js";function r(r){const n=t(),c=a(()=>r.map(a=>({node:a,target:"purchase.checkout.cart-line-item.render-after"})),[r]),i=o(c);return a=>i.map(t=>e(s,{customizations:[t],options:{stableId:a},idNamespace:`${n}-${a}-${t.key}`},t.key))}export{r as t};
